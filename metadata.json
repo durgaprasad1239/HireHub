@@ -1,0 +1,7 @@
+{
+  "name": "HIRE-HUB – Job Recruitment Platform",
+  "description": "Comprehensive job recruitment and hiring platform featuring job discovery, multi-step application submission, recruiter ATS pipeline, candidate evaluation, and automated functional flow testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
